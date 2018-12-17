@@ -18,6 +18,8 @@ The phytoplankton series is described in [Skejic et al. (2015)](http://www.emodn
 # Full description with methodology and code of this analysis:
 
 pdf: https://github.com/EMODnet/EMODnet-Biology-Phytoplankton-community-analysis-Middle-Adriatic/blob/master/PhytoNA.pdf
+
 html:https://github.com/EMODnet/EMODnet-Biology-Phytoplankton-community-analysis-Middle-Adriatic/blob/master/PhytoNA.html
+
 R markdown: https://github.com/EMODnet/EMODnet-Biology-Phytoplankton-community-analysis-Middle-Adriatic/blob/master/PhytoNA.Rmd
 
